@@ -117,6 +117,6 @@ Example (100 games):
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+SWATHI D, VARDHA KATHURIA,SNEHA VERMA, TEESTA SARKAR 
 B.Tech CSE (AI & ML) | 2027 Batch  
-GitHub: [@yourusername](https://github.com/yourusername)
+
